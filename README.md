@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+# CAESAR CIPHER ALGORITHM
 This is task 01 of prodigy 1 month summer internship june-july 2024.
 
 **Caesar Cipher Algorithm**
